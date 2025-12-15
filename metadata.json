@@ -1,0 +1,7 @@
+{
+  "name": "Senior AI Companion - Life Essential Course",
+  "description": "An interactive, elderly-friendly presentation for the Life Essential AI Practical Application Course, featuring AI-powered narration and explanations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
